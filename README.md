@@ -37,17 +37,10 @@
 
 ---
 
-### ✨ Quote I Live By
-
-> _“I don’t have it all figured out. But I’m building something real.”_ 🚀
-
----
 
 ### 🐾 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://[your-link-here](https://www.linkedin.com/in/pratiksha-phukon-09935a234/))  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pratikxaphukon@gmail.com)
 
----
 
-<p align="center"><i>Crafted with 💙 by Pratiksha Phukon</i></p>
